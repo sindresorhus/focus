@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Focus (light)</string>
+	<key>author</key>
+	<string>Sindre Sorhus</string>
+	<key>comment</key>
+	<string>https://github.com/sindresorhus/focus</string>
+	<key>semanticClass</key>
+	<string>theme.light.focus</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#f5f5f5</string>
+				<key>caret</key>
+				<string>#9a9b99</string>
+				<key>foreground</key>
+				<string>#5a5a59</string>
+				<key>invisibles</key>
+				<string>#e1e1e1</string>
+				<key>lineHighlight</key>
+				<string>#ececec</string>
+				<key>selection</key>
+				<string>#dfdfdf</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hide</string>
+			<key>scope</key>
+			<string>comment, constant, entity, invalid, keyword, markup, meta, storage, string, support, variable, source</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#dfdfdf</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Show</string>
+			<key>scope</key>
+			<string>string.quoted, meta.paragraph</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#5a5a59</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hide quoted strings in HTML/XML</string>
+			<key>scope</key>
+			<string>string.quoted.double.html, string.quoted.double.xml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#dfdfdf</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>8c01e5f8-2695-4ecf-99ba-0f9fda390c30</string>
+</dict>
+</plist>
