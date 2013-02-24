@@ -2,7 +2,7 @@
 
 > Theme that lets you focus on the content
 
-For when you need to edit a lot of text without being distracted by code and markup.
+For when you need to edit a lot of inline text without being distracted by code and markup.
 
 ![Focus light](screenshot-light.png)
 ![Focus dark](screenshot-dark.png)
@@ -20,12 +20,17 @@ Install with [Package Control](http://wbond.net/sublime_packages/package_control
 
 ### TextMate 2
 
-Move the `.tmTheme` files to `~/Library/Application Support/Textmate/Managed/Bundles/Themes.tmbundle`.
+Copy the `.tmTheme` files to `~/Library/Application Support/Textmate/Managed/Bundles/Themes.tmbundle`.
 
 
 ### TextMate
 
-Move the `.tmTheme` files to `~/Library/Application Support/TextMate/Themes`.
+Copy the `.tmTheme` files to `~/Library/Application Support/TextMate/Themes`.
+
+
+### Vim
+
+Copy the contents of the `vim` folder to `~/.vim/colors`.
 
 
 ### Chocolat
@@ -36,6 +41,8 @@ Move the `.tmTheme` files to `~/Library/Application Support/TextMate/Themes`.
 ### Other editors
 
 A lot more editors support the `.tmTheme` format. Google it if you're not using any of the above editors.
+
+I would be more than happy to accept PRs for ports to other editors that doesn't support `.tmTheme`.
 
 
 ## License
