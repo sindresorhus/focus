@@ -1,11 +1,15 @@
 # Focus
 
-> Theme that lets you focus on the content
+> Code editor color theme that lets you focus on the content
 
 For when you need to edit a lot of inline text without being distracted by code and markup.
 
 ![Focus light](screenshot-light.png)
 ![Focus dark](screenshot-dark.png)
+
+Works perfectly with LaTeX
+
+![Focus dark LaTeX](screenshot-dark-latex.png)
 
 
 ## Install
