@@ -15,8 +15,6 @@ For when you need to edit a lot of inline text without being distracted by code 
 
 Install with [Package Control](http://wbond.net/sublime_packages/package_control) and restart Sublime.
 
-*Not in Package Control yet. Install manually for now.*
-
 
 ### TextMate 2
 
