@@ -53,6 +53,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Show LaTeX</string>
+			<key>scope</key>
+			<string>text.tex.latex support.function.general.tex, string.other.math.block.environment.latex, string.other.math.block.environment.latex support.function.general.tex, text.tex.latex string.other.math.tex, text.tex.latex constant.other.general.math.tex, text.tex.latex string.other.math.tex meta.group.braces.tex, text.tex.latex invalid.illegal.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#999b99</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Hide quoted strings in HTML/XML</string>
 			<key>scope</key>
 			<string>string.quoted.double.html, string.quoted.double.xml</string>
