@@ -17,7 +17,7 @@ Works perfectly with LaTeX
 
 ### Sublime Text
 
-Install with [Package Control](http://wbond.net/sublime_packages/package_control) and restart Sublime.
+Install `Focus` with [Package Control](https://sublime.wbond.net) and restart Sublime.
 
 
 ### TextMate 2
