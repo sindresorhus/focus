@@ -61,6 +61,19 @@
 			<key>name</key>
 			<string>Show LaTeX</string>
 			<key>scope</key>
+			<!--
+			inline macros like: \LaTeX{}
+				text.tex.latex support.function.general.tex
+
+			block math
+				string.other.math.block.environment.latex, string.other.math.block.environment.latex support.function.general.tex
+
+			inline math
+				text.tex.latex string.other.math.tex, text.tex.latex constant.other.general.math.tex, text.tex.latex string.other.math.tex meta.group.braces.tex
+
+			quotes doesn't nessecarily mean a string in latex. don't hide them.
+				text.tex.latex invalid.illegal.string
+			-->
 			<string>text.tex.latex support.function.general.tex, string.other.math.block.environment.latex, string.other.math.block.environment.latex support.function.general.tex, text.tex.latex string.other.math.tex, text.tex.latex constant.other.general.math.tex, text.tex.latex string.other.math.tex meta.group.braces.tex, text.tex.latex invalid.illegal.string</string>
 			<key>settings</key>
 			<dict>

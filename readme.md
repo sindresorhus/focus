@@ -49,4 +49,4 @@ I would be more than happy to accept PRs for ports to other editors that doesn't
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT) © [Sindre Sorhus](http://sindresorhus.com)
+MIT • © [Sindre Sorhus](http://sindresorhus.com)
