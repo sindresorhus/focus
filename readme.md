@@ -7,9 +7,13 @@ For when you need to edit a lot of inline text without being distracted by code 
 ![Focus light](screenshot-light.png)
 ![Focus dark](screenshot-dark.png)
 
-Works perfectly with LaTeX
+#### Works perfectly with Markdown
 
-![Focus dark LaTeX](screenshot-dark-latex.png)
+![Focus dark - Markdown](screenshot-dark-markdown.png)
+
+#### And LaTeX
+
+![Focus dark - LaTeX](screenshot-dark-latex.png)
 
 
 ## Install

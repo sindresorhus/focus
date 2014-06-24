@@ -92,6 +92,39 @@
 				<string>#34373b</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown show</string>
+			<key>scope</key>
+			<string>markup.raw.inline.markdown, string.other.link.title.markdown, string.other.link.description.markdown, markup.quote.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c5c8c6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown show subtle</string>
+			<key>scope</key>
+			<string>markup.underline.link.markdown, markup.underline.link.image.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#999b99</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown hide</string>
+			<key>scope</key>
+			<string>meta.image.inline.markdown, meta.link.inline.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#34373b</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>6c2ee786-f793-4425-a706-81cb9f883a9e</string>
