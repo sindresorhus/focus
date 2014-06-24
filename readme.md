@@ -47,6 +47,11 @@ A lot more editors support the `.tmTheme` format. Google it if you're not using 
 I would be more than happy to accept PRs for ports to other editors that doesn't support `.tmTheme`.
 
 
+## Dev
+
+Click on some syntax then press Ctrl+Shift+P to see the scope in the statusbar.
+
+
 ## License
 
-MIT • © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Sindre Sorhus](http://sindresorhus.com)
