@@ -1,0 +1,77 @@
+@import "syntax-variables";
+
+.editor {
+  background-color: @syntax-background-color;
+  color: @syntax-text-color;
+}
+
+.editor .gutter {
+  background-color: @syntax-gutter-background-color;
+  color: @syntax-gutter-text-color;
+}
+
+.editor .gutter .line-number.cursor-line {
+  background-color: @syntax-gutter-background-color-selected;
+  color: @syntax-gutter-text-color-selected;
+}
+
+.editor .gutter .line-number.cursor-line-no-selection {
+  color: @syntax-gutter-text-color-selected;
+}
+
+.editor .wrap-guide {
+  color: @syntax-wrap-guide-color;
+}
+
+.editor .indent-guide {
+  color: @syntax-indent-guide-color;
+}
+
+.editor .invisible-character {
+  color: @syntax-invisible-character-color;
+}
+
+.editor .search-results .marker .region {
+  background-color: transparent;
+  border: @syntax-result-marker-color;
+}
+
+.editor .search-results .marker.current-result .region {
+  border: @syntax-result-marker-color-selected;
+}
+
+.editor.is-focused .cursor {
+  border-color: @syntax-cursor-color;
+}
+
+.editor.is-focused .selection .region {
+  background-color: @syntax-selection-color;
+}
+
+.editor.is-focused .line-number.cursor-line-no-selection, .editor.is-focused .line.cursor-line {
+  background-color: #212325;
+}
+
+.comment, .constant, .entity, .invalid, .keyword, .markup, .meta, .storage, .string, .support, .variable, .source {
+  color: #34373b;
+}
+
+.string.quoted, .meta.paragraph, .entity.name.section {
+  color: #c5c8c6;
+}
+
+.string.quoted.double.html, .string.quoted.double.xml {
+  color: #34373b;
+}
+
+.markup.raw.inline.markdown, .string.other.link.title.markdown, .string.other.link.description.markdown, .markup.quote.markdown {
+  color: #c5c8c6;
+}
+
+.markup.underline.link.markdown, .markup.underline.link.image.markdown {
+  color: #999b99;
+}
+
+.meta.image.inline.markdown, .meta.link.inline.markdown {
+  color: #34373b;
+}
