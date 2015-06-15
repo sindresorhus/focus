@@ -1,0 +1,11 @@
+{
+  "name": "Focus Dark",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "For when you need to edit a lot of inline text without being distracted by code and markup.",
+  "repository": "https://github.com/sindresorhus/focus/atom/focus-dark",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
