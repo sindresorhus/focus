@@ -24,6 +24,11 @@ For when you need to edit a lot of inline text without being distracted by code 
 Install `Focus` with [Package Control](https://sublime.wbond.net) and restart Sublime.
 
 
+### Atom
+
+See [atom-focus-dark](https://github.com/sindresorhus/atom-focus-dark) and [atom-focus-light](https://github.com/sindresorhus/atom-focus-light).
+
+
 ### TextMate 2
 
 Copy the `.tmTheme` files to `~/Library/Application Support/Textmate/Managed/Bundles/Themes.tmbundle`.
