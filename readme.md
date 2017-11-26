@@ -29,6 +29,11 @@ Install `Focus` with [Package Control](https://sublime.wbond.net) and restart Su
 See [atom-focus-dark](https://github.com/sindresorhus/atom-focus-dark) and [atom-focus-light](https://github.com/sindresorhus/atom-focus-light).
 
 
+### VS Code
+
+See [vscode-focus-dark](https://github.com/brandon93s/vscode-focus-dark) and [vscode-focus-light](https://github.com/brandon93s/vscode-focus-light).
+
+
 ### TextMate 2
 
 Copy the `.tmTheme` files to `~/Library/Application Support/Textmate/Managed/Bundles/Themes.tmbundle`.
