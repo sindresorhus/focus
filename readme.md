@@ -4,55 +4,43 @@
 
 For when you need to edit a lot of inline text without being distracted by code and markup.
 
-![Focus light](screenshot-light.png)
-![Focus dark](screenshot-dark.png)
+<img src="screenshot-light.png" alt="Focus light" width="426">
+<img src="screenshot-dark.png" alt="Focus dark" width="426">
 
 #### Works perfectly with Markdown
 
-![Focus dark - Markdown](screenshot-dark-markdown.png)
+<img src="screenshot-dark-markdown.png" alt="Focus dark - Markdown" width="680">
 
 #### And LaTeX
 
-![Focus dark - LaTeX](screenshot-dark-latex.png)
+<img src="screenshot-dark-latex.png" alt="Focus dark - LaTeX" width="426">
 
 
 ## Install
-
 
 ### Sublime Text
 
 Install `Focus` with [Package Control](https://sublime.wbond.net) and restart Sublime.
 
-
 ### Atom
 
 See [atom-focus-dark](https://github.com/sindresorhus/atom-focus-dark) and [atom-focus-light](https://github.com/sindresorhus/atom-focus-light).
-
 
 ### VS Code
 
 See [vscode-focus-dark](https://github.com/brandon93s/vscode-focus-dark) and [vscode-focus-light](https://github.com/brandon93s/vscode-focus-light).
 
-
 ### TextMate 2
 
 Copy the `.tmTheme` files to `~/Library/Application Support/Textmate/Managed/Bundles/Themes.tmbundle`.
-
 
 ### TextMate
 
 Copy the `.tmTheme` files to `~/Library/Application Support/TextMate/Themes`.
 
-
 ### Vim
 
 Copy the contents of the `vim` folder to `~/.vim/colors`.
-
-
-### Chocolat
-
-[Install instruction](http://chocolatapp.com/w/index.php?title=Install_Extras)
-
 
 ### Other editors
 
@@ -63,9 +51,9 @@ I would be more than happy to accept PRs for ports to other editors that doesn't
 
 ## Dev
 
-Click on some syntax then press Ctrl+Shift+P to see the scope in the statusbar.
+In Sublime, click on some syntax, then press Ctrl+Shift+P to see the scope in the statusbar.
 
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Sindre Sorhus](https://sindresorhus.com)
