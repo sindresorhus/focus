@@ -40,7 +40,7 @@ Copy the `.tmTheme` files to `~/Library/Application Support/TextMate/Themes`.
 
 ### Vim
 
-Copy the contents of the `vim` folder to `~/.vim/colors`.
+Copy the contents of the `vim/colors` folder to `~/.vim/colors`.
 
 ### Other editors
 
