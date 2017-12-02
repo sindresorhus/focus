@@ -40,6 +40,20 @@ Copy the `.tmTheme` files to `~/Library/Application Support/TextMate/Themes`.
 
 ### Vim
 
+#### Vim-plug
+
+```vim
+Plug 'sindresorhus/focus', { 'rtp': 'vim' }
+```
+
+#### Vundle
+
+```vim
+Plugin 'sindresorhus/focus', {'rtp': 'vim/'}
+```
+
+#### Manual
+
 Copy the contents of the `vim/colors` folder to `~/.vim/colors`.
 
 ### Other editors
