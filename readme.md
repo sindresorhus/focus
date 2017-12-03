@@ -43,13 +43,13 @@ Copy the `.tmTheme` files to `~/Library/Application Support/TextMate/Themes`.
 #### Vim-plug
 
 ```vim
-Plug 'sindresorhus/focus', { 'rtp': 'vim' }
+Plug 'sindresorhus/focus', {'rtp': 'vim'}
 ```
 
 #### Vundle
 
 ```vim
-Plugin 'sindresorhus/focus', {'rtp': 'vim/'}
+Plugin 'sindresorhus/focus', {'rtp': 'vim'}
 ```
 
 #### Manual
