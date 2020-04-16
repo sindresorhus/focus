@@ -1,5 +1,5 @@
 " Vim color file
-" Converted from Textmate theme Focus (light) using Coloration v0.3.2 (http://github.com/sickill/coloration)
+" Converted from Textmate theme Focus (light) using Coloration v0.3.2 (https://github.com/sickill/coloration)
 
 set background=dark
 highlight clear
