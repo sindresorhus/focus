@@ -15,7 +15,6 @@ For when you need to edit a lot of inline text without being distracted by code 
 
 <img src="screenshot-dark-latex.png" alt="Focus dark - LaTeX" width="426">
 
-
 ## Install
 
 ### Sublime Text
@@ -62,12 +61,6 @@ A lot more editors support the `.tmTheme` format. Google it if you're not using 
 
 I would be more than happy to accept PRs for ports to other editors that doesn't support `.tmTheme`.
 
-
 ## Dev
 
 In Sublime, click on some syntax, then press Ctrl+Shift+P to see the scope in the statusbar.
-
-
-## License
-
-MIT © [Sindre Sorhus](https://sindresorhus.com)
